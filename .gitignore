@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# Testing
+.pytest_cache/
+
+# LangSmith
+.langsmith/
+.env
+
+# Misc
+.coverage
+src/agents/text2sql/schema_registry.json
+context.json
